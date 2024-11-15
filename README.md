@@ -31,3 +31,6 @@ sleep disorders or health issues that may be affecting your sleep.
 STEPS
 1. Register if you are a new user.
 2. Login with the Registered credentials.
+3. Main Page will be displayed.
+4. Hit the 'Start' button, before going to bed.
+5. 
