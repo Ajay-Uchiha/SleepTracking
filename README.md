@@ -33,4 +33,7 @@ STEPS
 2. Login with the Registered credentials.
 3. Main Page will be displayed.
 4. Hit the 'Start' button, before going to bed.
-5. 
+5. The elapsed time will start running.
+6. Once you are awake hit the stop button.
+7. Then you can click the Track sleep.
+8. A log page of your sleep activity will be displayed.
