@@ -29,3 +29,5 @@ sleep quality, a sleep tracking app can also help you identify underlying
 sleep disorders or health issues that may be affecting your sleep. 
 
 STEPS
+1. Register if you are a new user.
+2. Login with the Registered credentials.
