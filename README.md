@@ -1,4 +1,5 @@
 PROBLEM STATEMENT 
+
    With growing awareness of the importance of quality 
 sleep for both mental and physical health, there is a need for accessible 
 tools that help individuals monitor and improve their sleep habits. Many 
@@ -11,6 +12,7 @@ tracking app that provides actionable insights into sleep quality and
 duration. 
  
 SOLUTION 
+
    The Sleep Tracker app provides a minimalist, easy-to
 use platform for users to monitor and improve their sleep habits. Using 
 Jetpack Compose for an intuitive UI, the app enables users to start a sleep 
